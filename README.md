@@ -1,2 +1,2 @@
 ## Live Demo :
- https://charu-sharma01.github.io/tic-tac-toe/
+http://127.0.0.1:3000/tic-tac-toe/index.html
